@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "njpwerner.autodocstring",
+        "James-Yu.latex-workshop",
+        "streetsidesoftware.code-spell-checker",
+        "redhat.vscode-yaml"
+    ]
+}
