@@ -25,7 +25,7 @@ Programmer interested in all things computer science, especially computer graphi
 
 - Sept 2019 – July 2024
 - Achieved First-Class Honours; 91% final year average.
-- Thesis on Reinforcement Learning: Effective Exploration in Markov Decision Processes
+- Thesis on Reinforcement Learning: [Effective Exploration in Markov Decision Processes](https://github.com/CougarTasker/reinforcement-learning-msci-project/blob/main/reports/Final/Final_Report.pdf)
 - Developed a robust Java calculator adhering to software engineering principles.
 - Collaborated on a restaurant management system, Achieving a perfect 100% Grade.
 
