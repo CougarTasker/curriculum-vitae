@@ -135,5 +135,6 @@ locale_catalog:
 rendercv_settings:
   render_command:
     dont_generate_html: true 
+    pdf_path: Cougar_Rufus_Tasker_CV.pdf
     markdown_path: "README.md"
     dont_generate_png: true 
