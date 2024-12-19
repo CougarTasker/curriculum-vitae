@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.12.18)  19 DEC 2024 09:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.12.18)  19 DEC 2024 09:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -500,18 +500,18 @@ AED: lastpage setting LastPage
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.418 \end{document}
+l.417 \end{document}
                      [2] (./Cougar_Rufus_Tasker_CV.aux) ) 
 Here is how much of TeX's memory you used:
  14883 strings out of 478287
  255396 string characters out of 5849288
- 569311 words of memory out of 5000000
+ 568311 words of memory out of 5000000
  32886 multiletter control sequences out of 15000+600000
  497176 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,63p,356b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,63p,356b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Cougar_Rufus_Tasker_CV.pdf (2 pages, 177764 bytes).
+Output written on Cougar_Rufus_Tasker_CV.pdf (2 pages, 177347 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream

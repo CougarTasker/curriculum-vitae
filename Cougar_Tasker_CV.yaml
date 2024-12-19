@@ -35,14 +35,13 @@ cv:
         highlights:
           - "Achieved grades: AABB"
           - Designed a renewable energy-efficient city for the 2050 E4E Challenge, placing third.
-          - Conducted physics experiments to determine fundamental constants.
       - institution: Bourne Community College
         area: GCSEs
         start_date: 2013-09
         end_date: 2017-08
         highlights:
           - Achieved a 9(A*) in Maths, 5(B) in English, four A's, and two B's.
-          - Involved in extracurriculars, Completed the Bronze Duke of Edinburgh Award and NCS
+          - Completed the Bronze Duke of Edinburgh Award
           - Helped organise ChiPride event during the National Citizen Service Program.
     experience:
       - company: Zing Dev Limited
@@ -62,7 +61,7 @@ cv:
           - Worked collaboratively with customers to implement Twilio solutions.
           - Contributed to design, development, and support tasks.
       - company: Royal Holloway
-        position: User Interface Analyst (Paid Internship)
+        position: Paid Internship
         location: Remote
         date: 2021-08
         highlights:
@@ -128,8 +127,11 @@ design:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
       horizontal_between_connections: 0.5 cm
+
+locale_catalog:
+  phone_number_format: international
 rendercv_settings:
   render_command:
     dont_generate_html: true 
-    dont_generate_markdown: true 
+    markdown_path: "README.md"
     dont_generate_png: true 
