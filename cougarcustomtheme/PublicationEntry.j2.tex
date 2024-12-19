@@ -15,10 +15,18 @@
         \vspace{<<design.margins.highlights_area.top>>}
 
         <<entry.authors|map("make_it_nolinebreak")|join(", ")>>
-        ((* if entry.doi or entry.journal or entry.url *))
-        \vspace{<<design.margins.highlights_area.vertical_between_bullet_points>>}
+    ((* if entry.date_string *))
+    \end{twocolentry}
+    ((* else *))
+    \end{onecolentry}
+    ((* endif *))
 
-        ((* endif *))
+
+    ((* if entry.doi or entry.journal or entry.url *))
+    \vspace{<<design.margins.highlights_area.vertical_between_bullet_points>>}
+
+    \begin{onecolentry}
+    ((* endif *))
         ((* if entry.doi -*))
         \href{<<entry.doi_url>>}{<<entry.doi|escape_latex_characters>>}
         ((* elif entry.url -*))
@@ -28,10 +36,8 @@
         ((*- if entry.journal -*))
         <<entry.journal>>
         ((*- endif -*))
-        ((*- if (entry.doi or entry.url) and entry.journal *)))((* endif *))
-    ((* if entry.date_string *))
-    \end{twocolentry}
-    ((* else *))
+        ((*- if (entry.doi or entry.url) and entry.journal *)))((* endif -*))
+    ((* if entry.doi or entry.journal or entry.url *))
     \end{onecolentry}
     ((* endif *))
 \end{samepage}

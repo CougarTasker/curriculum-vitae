@@ -2,32 +2,32 @@
 
 - Phone: +44 7597 029304
 - Email: [cougartasker@outlook.com](mailto:cougartasker@outlook.com)
-- Location: London
+- Location: London, UK
 - LinkedIn: [cougartasker](https://linkedin.com/in/cougartasker)
 - GitHub: [CougarTasker](https://github.com/CougarTasker)
 
 
 # Personal Profile
 
-I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on a Typescript/React software stack.
+Programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on Typescript/React software stack.
 
 # Skills
 
-- Programming Languages: TypeScript, Python, Java, and have worked with many more.
-- Version Control Systems: Predominantly work with Git and Github, but have used SVN and Gitlab.
-- API's: Created and used numerous third party RESTful API's.
-- Databases: Created SQL based applications with PostgreSQL and MySql. Familiar with ORM's such as Prisma and Drizzle.
-- Deployment: Deployed Infrastructure as code solutions to Azure, AWS and GCP with Kubernetes and Terraform.
-- Liunx & Containerisation: I have used many Linux distributions
+- Programming Languages: Proficient in TypeScript, Python, and Java; adaptable to other languages based on project needs.
+- Version Control: Predominantly work with Git and Github, with additional experience using SVN and Gitlab.
+- APIs: Skilled in designing, implementing, and integrating RESTful APIs.
+- Databases: Ability to create database solutions, familiar with PostgreSQL, MySQL and ORMs such as Prisma and Drizzle.
+- Deployment: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP
+- Liunx & Containerisation: Extensive experience with Linux distributions for development and deployment.
 # Education
 
 ## Royal Holloway, University of London, MSci in Computer Science with Artificial Intelligence
 
 - Sept 2019 – July 2024
-- Final year average \textgreater 90%, achieved First-Class Honours.
-- Thesis on reinforcement learning: Effective Exploration in Markov Decision Processes
+- Achieved First-Class Honours; 91% final year average.
+- Thesis on Reinforcement Learning: Effective Exploration in Markov Decision Processes
 - Developed a robust Java calculator adhering to software engineering principles.
-- Collaborated on a web-based restaurant management system (front-end, back-end, and SQL database).
+- Collaborated on a restaurant management system, Achieving a perfect 100% Grade.
 
 ## Havant and South Downs College, A-Levels in Computing, Physics, Maths, and Further Maths
 
@@ -48,7 +48,7 @@ I am Cougar, a programmer interested in all things computer science, especially 
 
 - June 2024 – present
 - Paddington, London
-- Returned as a graduate to continue developing twilio solutions and myself
+- Returned as a graduate to continue developing Twilio solutions and myself
 - Assisted new placements through zing's mentoring programme
 
 ## Zing Dev Limited, Junior Developer
@@ -63,30 +63,27 @@ I am Cougar, a programmer interested in all things computer science, especially 
 
 - Aug 2021
 - Remote
-- Built a data collection system for BBC iPlayer integration with visualization software.
+- Built a data collection system for BBC iPlayer for integration with visualization software.
 - Automated site interaction using Selenium and developed a relational PostgreSQL database.
 
 ## Boston Tea Party, Team Member
 
 - Aug 2019 – Oct 2019
 - Chichester
-- Served tables, ensured customer satisfaction, and managed fast-paced operations.
 
 ## Goodwood Festival of Speed, Steward
 
 - July 2019
 - Goodwood
-- Directed and assisted event attendees with professionalism.
 
 ## Little London Café, Waiter
 
 - Jan 2017 – June 2019
 - Chichester
-- Progressed responsibilities from dishwashing to payment handling and customer service.
 
 ## Strawberry Soup, Work Experience
 
 - Nov 2015
 - Southbourne
-- Gained skills in Photoshop, usability testing, and data entry during a sort internship.
+- Gained skills in Photoshop, usability testing, and data entry during a short internship.
 

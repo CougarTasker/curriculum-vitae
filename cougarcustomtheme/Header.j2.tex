@@ -10,8 +10,7 @@
 ((* endif *))
 ((* if cv.name is not none *))
 \begin{header}
-    \fontsize{<<design.header_font_size>>}{<<design.header_font_size>>}
-    \textbf{<<cv.name>>}
+    \textbf{\fontsize{<<design.header_font_size>>}{<<design.header_font_size>>}\selectfont <<cv.name>>}
 
     \vspace{<<design.margins.header.vertical_between_name_and_connections>>}
 
@@ -19,9 +18,9 @@
     ((* for connection in cv.connections *))
         ((* if design.use_icons_for_connections *))
     \mbox{((*- if connection["url"] -*))
-        \hrefWithoutArrow{<<connection["url"]>>}{{\footnotesize<<connection["latex_icon"]>>}\hspace*{0.13cm}<<connection["placeholder"]|escape_latex_characters>>}
+        \hrefWithoutArrow{<<connection["url"]>>}{\color{black}{\footnotesize<<connection["latex_icon"]>>}\hspace*{0.13cm}<<connection["placeholder"]|escape_latex_characters>>}
         ((*- else -*))
-        {\footnotesize<<connection["latex_icon"]>>}\hspace*{0.13cm}<<connection["placeholder"]|escape_latex_characters>>
+        {\color{black}\footnotesize<<connection["latex_icon"]>>}\hspace*{0.13cm}<<connection["placeholder"]|escape_latex_characters>>
         ((*- endif -*))}%
         ((* else *))
     \mbox{((*- if connection["url"] -*))
