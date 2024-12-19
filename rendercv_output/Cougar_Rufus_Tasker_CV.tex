@@ -19,8 +19,8 @@
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
 \usepackage[
-    pdftitle={Cougar Tasker's CV},
-    pdfauthor={Cougar Tasker},
+    pdftitle={Cougar Rufus Tasker's CV},
+    pdfauthor={Cougar Rufus Tasker},
     pdfcreator={LaTeX with RenderCV},
     colorlinks=true,
     urlcolor=primaryColor
@@ -53,13 +53,7 @@
 \setlength{\parindent}{0pt} % no indentation
 \setlength{\topskip}{0pt} % no top skip
 \setlength{\columnsep}{0cm} % set column seperation
-\makeatletter
-\let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
-\patchcmd{\ps@customFooterStyle}{\thepage}{
-    \color{gray}\textit{\small Cougar Tasker - Page \thepage{} of \pageref*{LastPage}}
-}{}{} % replace number by desired string
-\makeatother
-\pagestyle{customFooterStyle}
+\pagenumbering{gobble} % no page numbering
 
 \titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
 
@@ -154,7 +148,7 @@
     \sbox\ANDbox{}
 
     \begin{header}
-        \textbf{\fontsize{24 pt}{24 pt}\selectfont Cougar Tasker}
+        \textbf{\fontsize{24 pt}{24 pt}\selectfont Cougar Rufus Tasker}
 
         \vspace{0.3 cm}
 
@@ -226,8 +220,8 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Final year average >90\%, achieved First-Class Honours.
-                \item Thesis on reinforcement learning methods: research, implementation, and analysis.
+                \item Final year average \textgreater 90\%, achieved First-Class Honours.
+                \item Thesis on reinforcement learning: Effective Exploration in Markov Decision Processes
                 \item Developed a robust Java calculator adhering to software engineering principles.
                 \item Collaborated on a web-based restaurant management system (front-end, back-end, and SQL database).
             \end{highlights}
@@ -242,13 +236,13 @@
         \textit{Sept 2017 – Aug 2019}}
             \textbf{Havant and South Downs College}
 
-            \textit{Computing, Physics, Maths, Further Maths in A-Levels}
+            \textit{A-Levels in Computing, Physics, Maths, and Further Maths}
         \end{twocolentry}
 
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Achieved grades: two A's and two B's.
+                \item Achieved grades: AABB
                 \item Designed a renewable energy-efficient city for the 2050 E4E Challenge, placing third.
                 \item Conducted physics experiments to determine fundamental constants.
             \end{highlights}
@@ -263,7 +257,7 @@
         \textit{Sept 2013 – Aug 2017}}
             \textbf{Bourne Community College}
 
-            \textit{GCSE \& FSMQ in GCSEs}
+            \textit{GCSEs}
         \end{twocolentry}
 
         \vspace{0.10 cm}
@@ -284,7 +278,27 @@
 
         
         \begin{twocolentry}{
+        \textit{Paddington, London}    
             
+        \textit{June 2024 – present}}
+            \textbf{Software Developer}
+            
+            \textit{Zing Dev Limited}
+        \end{twocolentry}
+
+        \vspace{0.10 cm}
+        \begin{onecolentry}
+            \begin{highlights}
+                \item Returned as a graduate to continue developing twilio solutions and myself
+                \item Assisted new placements through zing's mentoring programme
+            \end{highlights}
+        \end{onecolentry}
+
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
+        \textit{Paddington, London}    
             
         \textit{July 2022 – Aug 2023}}
             \textbf{Junior Developer}
@@ -305,9 +319,9 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
+        \textit{Remote}    
             
-            
-        \textit{Aug 2021 – present}}
+        \textit{Aug 2021}}
             \textbf{User Interface Analyst (Paid Internship)}
             
             \textit{Royal Holloway}
@@ -325,7 +339,7 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
-            
+        \textit{Chichester}    
             
         \textit{Aug 2019 – Oct 2019}}
             \textbf{Team Member}
@@ -344,9 +358,9 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
+        \textit{Goodwood}    
             
-            
-        \textit{July 2019 – present}}
+        \textit{July 2019}}
             \textbf{Steward}
             
             \textit{Goodwood Festival of Speed}
@@ -363,7 +377,7 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
-            
+        \textit{Chichester}    
             
         \textit{Jan 2017 – June 2019}}
             \textbf{Waiter}
@@ -382,9 +396,9 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
+        \textit{Southbourne}    
             
-            
-        \textit{Nov 2015 – present}}
+        \textit{Nov 2015}}
             \textbf{Work Experience}
             
             \textit{Strawberry Soup}
@@ -393,7 +407,7 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Gained skills in Photoshop, usability testing, and data entry during a week-long web design internship.
+                \item Gained skills in Photoshop, usability testing, and data entry during a sort internship.
             \end{highlights}
         \end{onecolentry}
 

@@ -1,5 +1,5 @@
 cv:
-  name: Cougar Tasker
+  name: Cougar Rufus Tasker
   location: London
   email: cougartasker@outlook.com
   phone: "+447597029304"
@@ -23,22 +23,21 @@ cv:
         start_date: 2019-09
         end_date: 2024-07
         highlights:
-          - Final year average >90%, achieved First-Class Honours.
-          - "Thesis on reinforcement learning methods: research, implementation, and analysis."
+          - Final year average \textgreater 90%, achieved First-Class Honours.
+          - "Thesis on reinforcement learning: Effective Exploration in Markov Decision Processes"
           - Developed a robust Java calculator adhering to software engineering principles.
           - Collaborated on a web-based restaurant management system (front-end, back-end, and SQL database).
       - institution: Havant and South Downs College
-        area: A-Levels
-        degree: Computing, Physics, Maths, Further Maths
+        area: Computing, Physics, Maths, and Further Maths
+        degree: A-Levels
         start_date: 2017-09
         end_date: 2019-08
         highlights:
-          - "Achieved grades: two A's and two B's."
+          - "Achieved grades: AABB"
           - Designed a renewable energy-efficient city for the 2050 E4E Challenge, placing third.
           - Conducted physics experiments to determine fundamental constants.
       - institution: Bourne Community College
         area: GCSEs
-        degree: GCSE & FSMQ
         start_date: 2013-09
         end_date: 2017-08
         highlights:
@@ -47,8 +46,16 @@ cv:
           - Helped organise ChiPride event during the National Citizen Service Program.
     experience:
       - company: Zing Dev Limited
+        position: Software Developer
+        start_date: 2024-06
+        location: Paddington, London
+        highlights:
+          - Returned as a graduate to continue developing twilio solutions and myself 
+          - Assisted new placements through zing's mentoring programme
+      - company: Zing Dev Limited
         position: Junior Developer
         start_date: 2022-07
+        location: Paddington, London
         end_date: 2023-08
         highlights:
           - Year in Industry placement with diverse roles across the software lifecycle.
@@ -56,32 +63,37 @@ cv:
           - Contributed to design, development, and support tasks.
       - company: Royal Holloway
         position: User Interface Analyst (Paid Internship)
-        start_date: 2021-08
+        location: Remote
+        date: 2021-08
         highlights:
           - Built a data collection system for BBC iPlayer integration with visualization software.
           - Automated site interaction using Selenium and developed a relational PostgreSQL database.
       - company: Boston Tea Party
+        location: Chichester
         position: Team Member
         start_date: 2019-08
         end_date: 2019-10
         highlights:
           - Served tables, ensured customer satisfaction, and managed fast-paced operations.
       - company: Goodwood Festival of Speed
+        location: Goodwood
         position: Steward
-        start_date: 2019-07
+        date: 2019-07
         highlights:
           - Directed and assisted event attendees with professionalism.
       - company: Little London Café
+        location: Chichester
         position: Waiter
         start_date: 2017-01
         end_date: 2019-06
         highlights:
           - Progressed responsibilities from dishwashing to payment handling and customer service.
       - company: Strawberry Soup
+        location: Southbourne
         position: Work Experience
-        start_date: 2015-11
+        date: 2015-11
         highlights:
-          - Gained skills in Photoshop, usability testing, and data entry during a week-long web design internship.
+          - Gained skills in Photoshop, usability testing, and data entry during a sort internship.
 design:
   theme: sb2nov
   font: Latin Modern Serif
@@ -89,8 +101,7 @@ design:
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
-  disable_page_numbering: false
-  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_page_numbering: true
   disable_last_updated_date: true
   header_font_size: 24 pt
   text_alignment: justified

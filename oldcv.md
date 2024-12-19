@@ -37,8 +37,10 @@ completed the bronze Duke of Edinburgh challenge. This involved overcoming obsta
 Completed the national citizen service program, where within a group over two weeks organised the ChiPride event. The group raised funds by volunteering packing bags and organising a venue, advertising, speakers, food vans, freebies, and more.
 
 Work experience
-Jun 2024 - present
 
+Software Developer - Zing Dev Limited
+Jun 2024 - now
+Returning to Zing I am contiuning 
 
 Junior Developer - Zing Dev Limited
 Jul 2022 - Aug 2023
