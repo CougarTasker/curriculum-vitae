@@ -10,12 +10,20 @@ cv:
       username: CougarTasker
   sections:
     personal_profile:
-      - I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning.
+      - I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on a Typescript/React software stack.
     skills:
       - label: Programming Languages
-        details: Python, Java, C#, TypeScript (most familiar)
-      - label: Tools and Technologies
-        details: Full stack development, GNU/Linux, Version Control Systems
+        details: TypeScript, Python, Java, and have worked with many more.
+      - label: Version Control Systems
+        details: Predominantly work with Git and Github, but have used SVN and Gitlab.
+      - label: API's
+        details: Created and used numerous third party RESTful API's. 
+      - label: Databases
+        details: Created SQL based applications with PostgreSQL and MySql. Familiar with ORM's such as Prisma and Drizzle.
+      - label: Deployment
+        details: Deployed Infrastructure as code solutions to Azure, AWS and GCP with Kubernetes and Terraform.
+      - label: Liunx & Containerisation
+        details: I have used many Linux distributions
     education:
       - institution: Royal Holloway, University of London
         area: Computer Science with Artificial Intelligence
@@ -100,7 +108,7 @@ design:
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
-  disable_page_numbering: true
+  disable_page_numbering: false
   disable_last_updated_date: true
   header_font_size: 24 pt
   text_alignment: justified

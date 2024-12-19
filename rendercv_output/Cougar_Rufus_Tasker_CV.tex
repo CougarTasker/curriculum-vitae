@@ -53,7 +53,13 @@
 \setlength{\parindent}{0pt} % no indentation
 \setlength{\topskip}{0pt} % no top skip
 \setlength{\columnsep}{0cm} % set column seperation
-\pagenumbering{gobble} % no page numbering
+\makeatletter
+\let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
+\patchcmd{\ps@customFooterStyle}{\thepage}{
+    \color{gray}\textit{\small Cougar Rufus Tasker - Page \thepage{} of \pageref*{LastPage}}
+}{}{} % replace number by desired string
+\makeatother
+\pagestyle{customFooterStyle}
 
 \titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
 
@@ -181,7 +187,7 @@
 
         
         \begin{onecolentry}
-            Hi, I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning.
+            I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on a Typescript/React software stack.
         \end{onecolentry}
 
 
@@ -192,13 +198,37 @@
 
         
         \begin{onecolentry}
-            \textbf{Programming Languages:} Python, Java, C\#, TypeScript (most familiar)
+            \textbf{Programming Languages:} TypeScript, Python, Java, and have worked with many more.
         \end{onecolentry}
 
         \vspace{0.2 cm}
 
         \begin{onecolentry}
-            \textbf{Tools and Technologies:} Full stack development, GNU/Linux, Version Control Systems
+            \textbf{Version Control Systems:} Predominantly work with Git and Github, but have used SVN and Gitlab.
+        \end{onecolentry}
+
+        \vspace{0.2 cm}
+
+        \begin{onecolentry}
+            \textbf{API's:} Created and used numerous third party RESTful API's.
+        \end{onecolentry}
+
+        \vspace{0.2 cm}
+
+        \begin{onecolentry}
+            \textbf{Databases:} Created SQL based applications with PostgreSQL and MySql. Familiar with ORM's such as Prisma and Drizzle.
+        \end{onecolentry}
+
+        \vspace{0.2 cm}
+
+        \begin{onecolentry}
+            \textbf{Deployment:} Deployed Infrastructure as code solutions to Azure, AWS and GCP with Kubernetes and Terraform.
+        \end{onecolentry}
+
+        \vspace{0.2 cm}
+
+        \begin{onecolentry}
+            \textbf{Liunx \& Containerisation:} I have used many Linux distributions
         \end{onecolentry}
 
 

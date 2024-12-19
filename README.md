@@ -9,12 +9,16 @@
 
 # Personal Profile
 
-Hi, I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning.
+I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on a Typescript/React software stack.
 
 # Skills
 
-- Programming Languages: Python, Java, C#, TypeScript (most familiar)
-- Tools and Technologies: Full stack development, GNU/Linux, Version Control Systems
+- Programming Languages: TypeScript, Python, Java, and have worked with many more.
+- Version Control Systems: Predominantly work with Git and Github, but have used SVN and Gitlab.
+- API's: Created and used numerous third party RESTful API's.
+- Databases: Created SQL based applications with PostgreSQL and MySql. Familiar with ORM's such as Prisma and Drizzle.
+- Deployment: Deployed Infrastructure as code solutions to Azure, AWS and GCP with Kubernetes and Terraform.
+- Liunx & Containerisation: I have used many Linux distributions
 # Education
 
 ## Royal Holloway, University of London, MSci in Computer Science with Artificial Intelligence
