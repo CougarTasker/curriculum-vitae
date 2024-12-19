@@ -1,39 +1,50 @@
-CougarTasker@outlook.com／07597029304／https://www.cougartasker.com/
-Personal profile 
-A third-year Computer Science student who is passionate about programming and has a good understanding of computing, tools and web technologies. Excelling at problem-solving as well as attention to detail. With years of experience in customer service, I have confidence in front of external clients. 
-Skills 
-Effective with version control software, Git and Subversion. 
-A competent Java programmer, using a variety of tools such as Maven, JUnit and JavaDoc. 
-Web Development with JavaScript / Node.js, HTML, CSS.
-React, and Reactive native for Android and IOS development 
-A competent Python programmer with experience with Numpy.
-Experience creating and working with PostgreSQL. 
-Proficient with using bash with A good understanding of and experience with GNU/Linux based operating systems.
-Practised with Microsoft Office and Windows. 
+Personal Profile 
+
+I am Cougar I am a programmer interested in all things computer science especially computer graphics and machine learning. 
+
+
+Skills:
+
+I have experience with a wide range of tools and technologies. I typically work as a full stack developer. I have worked in a number of languages such as Python, Java, C# however I am most familiar with Typescript. 
+
+I have  experience of developing with version control software and GNU/Linux based operating systems
+
+
+
 Education
 
 Computer Science with Artificial Intelligence MSci
-2019 - current
-
-Studying at the Royal Holloway University of London and am on track for a first. There have been 16 modules completed so far including Software Engineering, Databases, Operating Systems, Artificial Intelligence. 
+2019 Sep - 2024 July 
+ 
+Grade: First Class Master in Science with Honours
+I am proud to have achieved a final year average >90% especially proud of my thesis, where I researched, implemented and analysed different reinforcement learning methods 
 Developed a robust calculator in java following software engineering principles. 
 Worked Collaboratively with a team to produce a web-based restaurant management system. 
 Designed, created and managed a large SQL database as part of the above restaurant management system. 
+
 4 A-levels 
-2017 - 2019
+2017 September - 2019 August
 
 Achieved Computing, Physics, Maths and Further Maths with two A’s and two B’s At Havant and South Downs College. 
 Worked as a team to produce a large document outlining the design and technology we will use in a hypothetical 2050 energy-efficient renewable city and achieved third place in the Blott Matthews E4E challenge in 2018. 
 Organised, executed, several experiments to determine fundamental constants as part of physics. 
 
 8 GCSEs
-2013 - 2017
+2013 September - 2017 August
 
 Achieved a 9(A*) in Maths and 5(B) in English as well as four other A’s and two B’s and an FSMQ.
 completed the bronze Duke of Edinburgh challenge. This involved overcoming obstacles in  13 weeks of Service, skills, sports and a 2-day hike.
 Completed the national citizen service program, where within a group over two weeks organised the ChiPride event. The group raised funds by volunteering packing bags and organising a venue, advertising, speakers, food vans, freebies, and more.
 
 Work experience
+Jun 2024 - present
+
+
+Junior Developer - Zing Dev Limited
+Jul 2022 - Aug 2023
+I completed my year in industry (YINI) placement at zing where I performed a number of roles throughout the software lifecycle. I worked collaborative with my team and customers to create solutions with twilio. I have aided in design, development and support.  
+
+
 User Interface Analyst — Royal Holloway Paid Internship
 August 2021 
 
@@ -70,10 +81,4 @@ Work Experience — Strawberry soup
 November 2015 
 
 Spent a work experience week at the strawberry soup web design company. Learned photoshop skills for making an advertisement as well as did usability testing and data entry.
-
-Other Interests
-I am interested in badminton walks through nature, I play some pc games and enjoy Marvel movies. I have an interest in new technology as a whole I’m interested in developments to crypto, web technologies and AI.
-
-References 
-Available upon request 
 

@@ -1,120 +1,98 @@
 cv:
   name: Cougar Tasker
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
+  location: London
+  email: cougartasker@outlook.com
+  phone: "+447597029304"
   social_networks:
     - network: LinkedIn
-      username: yourusername
+      username: cougartasker
     - network: GitHub
-      username: yourusername
+      username: CougarTasker
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://rendercv.com) is a LaTeX-based CV/resume
-        version-control and maintenance app. It allows you to
-        create a high-quality CV or resume as a PDF file from
-        a YAML file, with **Markdown syntax support** and **complete
-        control over the LaTeX code**.'
-      - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-    quick_guide:
-      - bullet: Each section title is arbitrary and each section
-          contains a list of entries.
-      - bullet: 'There are 7 unique entry types: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Select a section title, pick an entry type, and
-          start writing your section!
-      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-          you can find a comprehensive user guide for RenderCV.'
+    personal_profile:
+      - I am Cougar, a programmer interested in all things computer science, especially computer graphics and machine learning.
+    skills:
+      - label: Programming Languages
+        details: Python, Java, C#, TypeScript (most familiar)
+      - label: Tools and Technologies
+        details: Full stack development, GNU/Linux, Version Control Systems
     education:
-      - institution: University of Pennsylvania
-        area: Computer Science
-        degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
+      - institution: Royal Holloway, University of London
+        area: Computer Science with Artificial Intelligence
+        degree: MSci
+        start_date: 2019-09
+        end_date: 2024-07
         highlights:
-          - 'GPA: 3.9/4.0 ([a link to somewhere](https://example.com))'
-          - '**Coursework:** Computer Architecture, Comparison
-            of Learning Algorithms, Computational Theory'
+          - Final year average >90%, achieved First-Class Honours.
+          - "Thesis on reinforcement learning methods: research, implementation, and analysis."
+          - Developed a robust Java calculator adhering to software engineering principles.
+          - Collaborated on a web-based restaurant management system (front-end, back-end, and SQL database).
+      - institution: Havant and South Downs College
+        area: A-Levels
+        degree: Computing, Physics, Maths, Further Maths
+        start_date: 2017-09
+        end_date: 2019-08
+        highlights:
+          - "Achieved grades: two A's and two B's."
+          - Designed a renewable energy-efficient city for the 2050 E4E Challenge, placing third.
+          - Conducted physics experiments to determine fundamental constants.
+      - institution: Bourne Community College
+        area: GCSEs
+        degree: GCSE & FSMQ
+        start_date: 2013-09
+        end_date: 2017-08
+        highlights:
+          - Achieved a 9(A*) in Maths, 5(B) in English, four A's, and two B's.
+          - Involved in extracurriculars, Completed the Bronze Duke of Edinburgh Award and NCS
+          - Helped organise ChiPride event during the National Citizen Service Program.
     experience:
-      - company: Apple
-        position: Software Engineer
-        location: Cupertino, CA
-        start_date: 2005-06
-        end_date: 2007-08
+      - company: Zing Dev Limited
+        position: Junior Developer
+        start_date: 2022-07
+        end_date: 2023-08
         highlights:
-          - Reduced time to render user buddy lists by 75% by
-            implementing a prediction algorithm
-          - Integrated iChat with Spotlight Search by creating
-            a tool to extract metadata from saved chat transcripts
-            and provide metadata to a system-wide search database
-          - Redesigned chat file format and implemented backward
-            compatibility for search
-      - company: Microsoft
-        position: Software Engineer Intern
-        location: Redmond, WA
-        start_date: 2003-06
-        end_date: 2003-08
+          - Year in Industry placement with diverse roles across the software lifecycle.
+          - Worked collaboratively with customers to implement Twilio solutions.
+          - Contributed to design, development, and support tasks.
+      - company: Royal Holloway
+        position: User Interface Analyst (Paid Internship)
+        start_date: 2021-08
         highlights:
-          - Designed a UI for the VS open file switcher (Ctrl-Tab)
-            and extended it to tool windows
-          - Created a service to provide gradient across VS and
-            VS add-ins, optimizing its performance via caching
-          - Built an app to compute the similarity of all methods
-            in a codebase, reducing the time from $$\mathcal{O}(n^2)$$
-            to $$\mathcal{O}(n \log n)$$
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema
-          - Automated the extraction and processing of large datasets
-            from legacy systems using SQL and Perl scripts
-    publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
-    projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/rendercv/rendercv)'
+          - Built a data collection system for BBC iPlayer integration with visualization software.
+          - Automated site interaction using Selenium and developed a relational PostgreSQL database.
+      - company: Boston Tea Party
+        position: Team Member
+        start_date: 2019-08
+        end_date: 2019-10
         highlights:
-          - Developed an electronic classroom where multiple users
-            can simultaneously view and draw on a "chalkboard"
-            with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/rendercv/rendercv)'
+          - Served tables, ensured customer satisfaction, and managed fast-paced operations.
+      - company: Goodwood Festival of Speed
+        position: Steward
+        start_date: 2019-07
         highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Custom Operating System
-        date: 2002
+          - Directed and assisted event attendees with professionalism.
+      - company: Little London Café
+        position: Waiter
+        start_date: 2017-01
+        end_date: 2019-06
         highlights:
-          - Built a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator
-          - 'Tools Used: C'
-    technologies:
-      - label: Languages
-        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
-      - label: Technologies
-        details: .NET, Microsoft SQL Server, XCode, Interface
-          Builder
+          - Progressed responsibilities from dishwashing to payment handling and customer service.
+      - company: Strawberry Soup
+        position: Work Experience
+        start_date: 2015-11
+        highlights:
+          - Gained skills in Photoshop, usability testing, and data entry during a week-long web design internship.
 design:
-  theme: classic
-  font: Source Sans 3
+  theme: sb2nov
+  font: Latin Modern Serif
   font_size: 10pt
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
   disable_page_numbering: false
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  disable_last_updated_date: false
-  last_updated_date_style: Last updated in TODAY
-  header_font_size: 30 pt
+  disable_last_updated_date: true
+  header_font_size: 24 pt
   text_alignment: justified
   seperator_between_connections: ''
   use_icons_for_connections: true
@@ -131,7 +109,6 @@ design:
       left_and_right: 0.2 cm
       vertical_between: 0.2 cm
       date_and_location_width: 4.5 cm
-      education_degree_width: 1 cm
     highlights_area:
       top: 0.10 cm
       left: 0.4 cm
@@ -140,4 +117,3 @@ design:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
       horizontal_between_connections: 0.5 cm
-  show_timespan_in: []
