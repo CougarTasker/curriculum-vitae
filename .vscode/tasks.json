@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "poetry run rendercv render Cougar_Tasker_CV.yaml",
+            "command": "poetry run rendercv render Cougar_Rufus_Tasker_CV.yaml",
             "problemMatcher": [],
             "group": {
                 "kind": "build",

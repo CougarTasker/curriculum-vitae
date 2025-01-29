@@ -3,6 +3,7 @@
 - Phone: +44 7597 029304
 - Email: [cougartasker@outlook.com](mailto:cougartasker@outlook.com)
 - Location: London, UK
+- Website: [www.cougartasker.com](https://www.cougartasker.com/)
 - LinkedIn: [cougartasker](https://linkedin.com/in/cougartasker)
 - GitHub: [CougarTasker](https://github.com/CougarTasker)
 
@@ -46,7 +47,7 @@ Programmer interested in all things computer science, especially computer graphi
 
 ## Zing Dev Limited, Software Developer
 
-- June 2024 – present
+- June 2024 – Jan 2025
 - Paddington, London
 - Returned as a graduate to continue developing Twilio solutions and myself
 - Assisted new placements through zing's mentoring programme

@@ -1,13 +1,14 @@
 cv:
   name: Cougar Rufus Tasker
   location: London, UK
-  email: cougartasker@outlook.com
-  phone: "+447597029304"
+  website: https://www.cougartasker.com/
   social_networks:
     - network: LinkedIn
       username: cougartasker
     - network: GitHub
       username: CougarTasker
+  email: cougartasker@outlook.com
+  phone: "+447597029304"
   sections:
     personal_profile:
       - Programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on Typescript/React software stack.
@@ -17,7 +18,7 @@ cv:
       - label: Version Control
         details: Predominantly work with Git and Github, with additional experience using SVN and Gitlab.
       - label: APIs
-        details: Skilled in designing, implementing, and integrating RESTful APIs. 
+        details: Skilled in designing, implementing, and integrating RESTful APIs.
       - label: Databases
         details: Ability to create database solutions, familiar with PostgreSQL, MySQL and ORMs such as Prisma and Drizzle.
       - label: Deployment
@@ -55,9 +56,10 @@ cv:
       - company: Zing Dev Limited
         position: Software Developer
         start_date: 2024-06
+        end_date: 2025-01
         location: Paddington, London
         highlights:
-          - Returned as a graduate to continue developing Twilio solutions and myself 
+          - Returned as a graduate to continue developing Twilio solutions and myself
           - Assisted new placements through zing's mentoring programme
       - company: Zing Dev Limited
         position: Junior Developer
@@ -100,13 +102,13 @@ design:
   font: Latin Modern Serif
   font_size: 10pt
   page_size: a4paper
-  color: '#004f90'
+  color: "#004f90"
   disable_external_link_icons: false
   disable_page_numbering: false
   disable_last_updated_date: true
   header_font_size: 24 pt
   text_alignment: justified
-  seperator_between_connections: ''
+  seperator_between_connections: ""
   use_icons_for_connections: true
   margins:
     page:
@@ -134,7 +136,7 @@ locale_catalog:
   phone_number_format: international
 rendercv_settings:
   render_command:
-    dont_generate_html: true 
+    dont_generate_html: true
     pdf_path: Cougar_Rufus_Tasker_CV.pdf
     markdown_path: "README.md"
-    dont_generate_png: true 
+    dont_generate_png: true
