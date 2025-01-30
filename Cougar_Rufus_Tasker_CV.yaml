@@ -22,7 +22,7 @@ cv:
       - label: Databases
         details: Ability to create database solutions, familiar with PostgreSQL, MySQL and ORMs such as Prisma and Drizzle.
       - label: Deployment
-        details: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP
+        details: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP.
       - label: Liunx & Containerisation
         details: Extensive experience with Linux distributions for development and deployment.
     education:
@@ -50,7 +50,7 @@ cv:
         end_date: 2017-08
         highlights:
           - Achieved a 9(A*) in Maths, 5(B) in English, four A's, and two B's.
-          - Completed the Bronze Duke of Edinburgh Award
+          - Completed the Bronze Duke of Edinburgh Award.
           - Helped organise ChiPride event during the National Citizen Service Program.
     experience:
       - company: Zing Dev Limited
@@ -59,8 +59,8 @@ cv:
         end_date: 2025-01
         location: Paddington, London
         highlights:
-          - Returned as a graduate to continue developing Twilio solutions and myself
-          - Assisted new placements through zing's mentoring programme
+          - Returned as a graduate to continue developing Twilio solutions and myself.
+          - Assisted new placements through zing's mentoring programme.
       - company: Zing Dev Limited
         position: Junior Developer
         start_date: 2022-07

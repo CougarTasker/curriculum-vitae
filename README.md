@@ -18,7 +18,7 @@ Programmer interested in all things computer science, especially computer graphi
 - Version Control: Predominantly work with Git and Github, with additional experience using SVN and Gitlab.
 - APIs: Skilled in designing, implementing, and integrating RESTful APIs.
 - Databases: Ability to create database solutions, familiar with PostgreSQL, MySQL and ORMs such as Prisma and Drizzle.
-- Deployment: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP
+- Deployment: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP.
 - Liunx & Containerisation: Extensive experience with Linux distributions for development and deployment.
 # Education
 
@@ -40,7 +40,7 @@ Programmer interested in all things computer science, especially computer graphi
 
 - Sept 2013 – Aug 2017
 - Achieved a 9(A*) in Maths, 5(B) in English, four A's, and two B's.
-- Completed the Bronze Duke of Edinburgh Award
+- Completed the Bronze Duke of Edinburgh Award.
 - Helped organise ChiPride event during the National Citizen Service Program.
 
 # Experience
@@ -49,8 +49,8 @@ Programmer interested in all things computer science, especially computer graphi
 
 - June 2024 – Jan 2025
 - Paddington, London
-- Returned as a graduate to continue developing Twilio solutions and myself
-- Assisted new placements through zing's mentoring programme
+- Returned as a graduate to continue developing Twilio solutions and myself.
+- Assisted new placements through zing's mentoring programme.
 
 ## Zing Dev Limited, Junior Developer
 
