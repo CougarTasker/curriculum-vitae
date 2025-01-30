@@ -1,6 +1,6 @@
 cv:
   name: Cougar Rufus Tasker
-  location: London, UK
+  location: Epsom, Surrey
   website: https://www.cougartasker.com/
   social_networks:
     - network: LinkedIn
@@ -11,10 +11,10 @@ cv:
   phone: "+447597029304"
   sections:
     personal_profile:
-      - Programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on Typescript/React software stack.
+      - Programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development.
     skills:
       - label: Programming Languages
-        details: Proficient in TypeScript, Python, and Java; adaptable to other languages based on project needs.
+        details: Proficient in C#, TypeScript, Python, and Java; adaptable to other languages based on project needs.
       - label: Version Control
         details: Predominantly work with Git and Github, with additional experience using SVN and Gitlab.
       - label: APIs
@@ -22,7 +22,7 @@ cv:
       - label: Databases
         details: Ability to create database solutions, familiar with PostgreSQL, MySQL and ORMs such as Prisma and Drizzle.
       - label: Deployment
-        details: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP
+        details: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP.
       - label: Liunx & Containerisation
         details: Extensive experience with Linux distributions for development and deployment.
     education:
@@ -50,7 +50,7 @@ cv:
         end_date: 2017-08
         highlights:
           - Achieved a 9(A*) in Maths, 5(B) in English, four A's, and two B's.
-          - Completed the Bronze Duke of Edinburgh Award
+          - Completed the Bronze Duke of Edinburgh Award.
           - Helped organise ChiPride event during the National Citizen Service Program.
     experience:
       - company: Zing Dev Limited
@@ -59,8 +59,9 @@ cv:
         end_date: 2025-01
         location: Paddington, London
         highlights:
-          - Returned as a graduate to continue developing Twilio solutions and myself
-          - Assisted new placements through zing's mentoring programme
+          - Build and deployed C# Azure Functions Rest API's.
+          - Configured Github deployment pipelines with Terraform.
+          - Assisted new placements through zing's mentoring programme.
       - company: Zing Dev Limited
         position: Junior Developer
         start_date: 2022-07

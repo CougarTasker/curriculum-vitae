@@ -2,7 +2,7 @@
 
 - Phone: +44 7597 029304
 - Email: [cougartasker@outlook.com](mailto:cougartasker@outlook.com)
-- Location: London, UK
+- Location: Epsom, Surrey
 - Website: [www.cougartasker.com](https://www.cougartasker.com/)
 - LinkedIn: [cougartasker](https://linkedin.com/in/cougartasker)
 - GitHub: [CougarTasker](https://github.com/CougarTasker)
@@ -10,15 +10,15 @@
 
 # Personal Profile
 
-Programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development, with a focus on Typescript/React software stack.
+Programmer interested in all things computer science, especially computer graphics and machine learning. I have a varied experience of application and full stack development.
 
 # Skills
 
-- Programming Languages: Proficient in TypeScript, Python, and Java; adaptable to other languages based on project needs.
+- Programming Languages: Proficient in C#, TypeScript, Python, and Java; adaptable to other languages based on project needs.
 - Version Control: Predominantly work with Git and Github, with additional experience using SVN and Gitlab.
 - APIs: Skilled in designing, implementing, and integrating RESTful APIs.
 - Databases: Ability to create database solutions, familiar with PostgreSQL, MySQL and ORMs such as Prisma and Drizzle.
-- Deployment: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP
+- Deployment: Proficient with IaC deployments with Kubernetes and Terraform to cloud platforms like Azure, AWS, and GCP.
 - Liunx & Containerisation: Extensive experience with Linux distributions for development and deployment.
 # Education
 
@@ -40,7 +40,7 @@ Programmer interested in all things computer science, especially computer graphi
 
 - Sept 2013 – Aug 2017
 - Achieved a 9(A*) in Maths, 5(B) in English, four A's, and two B's.
-- Completed the Bronze Duke of Edinburgh Award
+- Completed the Bronze Duke of Edinburgh Award.
 - Helped organise ChiPride event during the National Citizen Service Program.
 
 # Experience
@@ -49,8 +49,9 @@ Programmer interested in all things computer science, especially computer graphi
 
 - June 2024 – Jan 2025
 - Paddington, London
-- Returned as a graduate to continue developing Twilio solutions and myself
-- Assisted new placements through zing's mentoring programme
+- Build and deployed C# Azure Functions Rest API's.
+- Configured Github deployment pipelines with Terraform.
+- Assisted new placements through zing's mentoring programme.
 
 ## Zing Dev Limited, Junior Developer
 
